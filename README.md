@@ -3,7 +3,7 @@
 
   <p>
     💻 <strong>Full-Stack Developer</strong> | ⚡ <strong>MERN & MEVN Specialist</strong> |
-    📱 <strong>React Native Developer</strong> | ✨ <strong>Vibe Coder</strong>
+    📱 <strong>React Native Developer</strong> 
   </p>
 
   <p>
